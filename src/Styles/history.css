@@ -1,0 +1,33 @@
+.history {
+    padding: 20px;
+    background-color: #121212;
+    color: #ffffff;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.history h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.history p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.history .btn-primary {
+    background-color: #ff6200;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.history .btn-primary:hover {
+    background-color: #ff8a00;
+}
